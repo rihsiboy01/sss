@@ -1,0 +1,26 @@
+.mol{
+    height: 100px;
+    border: 3px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ot{
+    text-align: center;
+    margin: 100px;
+}
+.it{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px;
+}
+.it div{
+width: 250px;
+height: 150px;
+background-color:red ;
+text-align: center;
+justify-content: center;
+font-size: 50px;
+padding-top: 50px;
+}
